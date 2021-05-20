@@ -4,6 +4,16 @@ Inspired by Abhishek Gupta's [talk](https://zenodo.org/record/4737535#.YJGjZn1Kh
 
 # Entries 
 
+### 05/20/2021
+
+**Covid events?** 
+
+In initial exploration noticed decline in tournament events in 2020 and 2021 (likely due to COVID). Created some graphics to explore that using pandas Periods. 
+
+**Fencer Bout/Event Counts**
+
+Since the data is very sparse, may need to focus on fencers with more events/bouts (may be hard to collaboratively filter a fencer who has results for only a single pool). Created counts for this and explored how much bout data would be lost if fencers with only a single result were dropped (either bouts containing a single or both fencers without multiple events)
+
 
 ### 05/13/2021
 
