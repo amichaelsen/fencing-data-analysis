@@ -4,6 +4,12 @@ Inspired by Abhishek Gupta's [talk](https://zenodo.org/record/4737535#.YJGjZn1Kh
 
 # Entries 
 
+### 05/24/2021 
+
+**Train/Test Split**
+
+Created a split by global time with ~80% bouts in dataset occuring before the date (tournaments were kept together) and all testing data (~20%) occurring strictly *after* all training example to avoid any data leakage. Should maybe come back and create a method for recreating the data split using different thresholds. 
+
 ### 05/21/2021
 
 **Recommender System?** 
