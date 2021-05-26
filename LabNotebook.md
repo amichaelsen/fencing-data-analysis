@@ -4,6 +4,19 @@ Inspired by Abhishek Gupta's [talk](https://zenodo.org/record/4737535#.YJGjZn1Kh
 
 # Entries 
 
+### 05/25/2021
+
+**Collaborative Filtering Methods**
+
+[Towards DataScience Article](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0): Review of collab filtering methods 
+
+--> using Surprise for SVD matrix factorization 
+
+`Surprise` Docs:
+* [Getting Started](https://surprise.readthedocs.io/en/stable/getting_started.html#load-from-folds-example)
+* [Custom Dataset](https://surprise.readthedocs.io/en/stable/getting_started.html#use-a-custom-dataset)
+* [Using Readers](https://surprise.readthedocs.io/en/stable/reader.html#surprise.reader.Reader)
+* [SVD Doc page](https://surprise.readthedocs.io/en/stable/matrix_factorization.html?highlight=svd#surprise.prediction_algorithms.matrix_factorization.SVD)
 ### 05/24/2021 
 
 **Train/Test Split**
